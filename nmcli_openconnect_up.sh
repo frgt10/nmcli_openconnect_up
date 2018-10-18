@@ -1,3 +1,5 @@
+#!/bin/sh
+
 USAGE="Usage:
 
     $(basename "$0") 'VPN_HOST' 'VPN_USER' 'VPN_PASSWORD' [NM_VPN_NAME]
